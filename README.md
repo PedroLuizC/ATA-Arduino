@@ -1,7 +1,3 @@
-Com certeza. Como Programador Sênior, preparei um `README.md` técnico, profissional e bem estruturado, pronto para ser colocado no seu repositório (GitHub/GitLab).
-
-Ele documenta a arquitetura, o hardware e o funcionamento do sistema.
-
 ***
 
 # 📋 ATA Eletrônica IoT com ESP32
